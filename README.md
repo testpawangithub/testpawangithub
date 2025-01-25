@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/pawan-tiwari-a1655a234">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://x.com/PawanTi89080464?t=gTUYGAF0nw4J7MMc0xeUWQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
